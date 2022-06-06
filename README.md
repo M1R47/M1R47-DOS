@@ -14,6 +14,8 @@ apt upgrade && apt update
 
 pkg install git -y
 
+git clone https://github.com/M1R47-T3RMUX/ddos_malisius
+
 pkg install Python3
 
 pkg install bash
